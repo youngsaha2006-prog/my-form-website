@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "first website"
+git branch -M main
+git remote add origin https://github.com/YOURNAME/my-form-website.git
+git push -u origin main
